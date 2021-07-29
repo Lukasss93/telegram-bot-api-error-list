@@ -170,6 +170,7 @@ Bad Request,400,Bad Request: bad webhook: getaddrinfo: Name or service not known
 Bad Request,400,Bad Request: not enough rights to invite members to the channel chat,
 Bad Request,400,Bad Request: language_invalid,
 Bad Request,400,Bad Request: channel not found,
+Bad Request,400,Bad Request: unsupported parse_mode,
 Unauthorized,401,Unauthorized,
 Unauthorized,401,Unauthorized: bot was kicked from a chat,
 Unauthorized,401,Unauthorized: bot can't initiate conversation with a user,
